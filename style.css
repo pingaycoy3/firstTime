@@ -1,0 +1,44 @@
+html {
+    font-size: 20px;
+    scroll-behavior: smooth;
+    text-align: center;
+
+
+
+}
+img {
+    width: 40%;
+    line-height: 1.5;
+    
+}
+h1 {
+    font-size: 4rem;
+
+}
+h2 {
+    font-size: 2.5rem;
+
+}
+p {
+    max-width: 500px;
+    line-height: 1.5;
+    margin: 0 auto;
+    text-align: left;
+}
+section {
+    border-top: 5px solid #777;
+    padding: 40px;
+
+}
+ul {
+    text-align: left;
+    
+}
+a {
+    text-decoration: none;
+
+}
+p a {
+    font-weight: bold;
+    color: rgb(0, 101, 190);
+}
